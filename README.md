@@ -23,3 +23,10 @@ This guide will walk you through the steps to create a sentiment analysis bot us
    In the file, paste your API key into the variable:  
    ```python
    openai.api_key = "your_api_key_here"
+
+6. **Run and Customize
+   Run the notebook and adjust the code as desired to fit your specific use case.
+   
+## Additional Resources
+   - You can review the code and its functionality [here](https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/sentiment_analysis.ipynb).
+   - If you need help installing Jupyter with TensorFlow, follow this [link](https://github.com/awaisqarni2/Jupyter-with-TensorFlow-Installation_Guide/tree/main).
