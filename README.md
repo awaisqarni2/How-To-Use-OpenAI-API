@@ -1,1 +1,1 @@
-# Bulid-Simple-ChatBot-Using-OpenAI-API
+# Senitment_Analysis_By_Using_OpenAI_API
