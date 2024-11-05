@@ -14,7 +14,7 @@ This guide will walk you through the steps to create a sentiment analysis bot us
    - Adjust your usage limits if desired (tutorial available here).
 
 3. **Create an API Key**  
-   Generate an API key, then copy and save it into a `.txt` file for later use.
+   Generate an API key [Direct link](https://platform.openai.com/settings/organization/api-keys), then copy and save it into a `.txt` file for later use.
 
 4. **Download the Sentiment Analysis File**  
    Get the "sentiment_analysis" file [link](https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/Sentiment_Analysis.ipynb) from this repository, and open it in Jupyter Notebook.
