@@ -1,4 +1,4 @@
-# Bulid Senitment_Analysis_Bot By Using OpenAI API
+# Bulid Senitment_Analysis_AiBot By Using OpenAI API
 
 This guide will walk you through the steps to create a sentiment analysis bot using OpenAI's API.
 
