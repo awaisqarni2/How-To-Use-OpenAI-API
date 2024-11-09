@@ -30,9 +30,9 @@ This guide will walk you through the steps to create a sentiment analysis bot us
    
 # Perform these tasks using OpenAI API's:
 Here is Code Files:
-   1. Sentiment Analysis: (Code File)[https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/Sentiment_Analysis.ipynb]
-   2. Blog Genrator Code File: (Code File)[https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/generate_blog.ipynb]
-   3. Image Gernation: (Code File)[https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/Image%20Gerneration%20using%20DELL-E.ipynb]
+   1. Sentiment Analysis: [Code File](https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/Sentiment_Analysis.ipynb)
+   2. Blog Genrator Code File: [Code File](https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/generate_blog.ipynb)
+   3. Image Gernation: [Code File](https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/Image%20Gerneration%20using%20DELL-E.ipynb)
 
 
 ## Additional Resources
