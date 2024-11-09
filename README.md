@@ -28,6 +28,13 @@ This guide will walk you through the steps to create a sentiment analysis bot us
 6. **Run and Customize
    Run the notebook and adjust the code as desired to fit your specific use case.
    
+# Perform these tasks using OpenAI API's:
+Here is Code Files:
+   1. Sentiment Analysis: (Code File)[https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/Sentiment_Analysis.ipynb]
+   2. Blog Genrator Code File: (Code File)[https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/generate_blog.ipynb]
+   3. Image Gernation: (Code File)[https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/Image%20Gerneration%20using%20DELL-E.ipynb]
+
+
 ## Additional Resources
    - You can review the code and its functionality [here](https://github.com/awaisqarni2/Senitment_Analysis_By_Using_OpenAI_API/blob/main/Explain_Senitment_Analysis_Code.pdf).
    - If you need help installing Jupyter with TensorFlow, follow this [link](https://github.com/awaisqarni2/Jupyter-with-TensorFlow-Installation_Guide/tree/main).
